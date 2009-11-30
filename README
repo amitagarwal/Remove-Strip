@@ -1,0 +1,16 @@
+Strip
+===
+Strip is a Rails plugin that automatically strips all ActiveRecord model attributes of leading and trailing whitespace before validation. If the attribute is blank, it strips the value to nil.
+Introduction goes here.
+
+    write strip_text_fields :name,:descri
+            
+   where name and descri are the column  of the table.
+
+Example
+=======
+
+Example goes here.
+
+amitdotagarwal@gmail.com
+Copyright (c) 2008 [Amit Agarwal], released under the MIT license
